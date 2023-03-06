@@ -12,7 +12,7 @@ const Header = () => {
           source={{
           uri: 'https://reactjs.org/logo-og.png',
         }}
-        style={{width: 24, height: 24}}
+        style={{width: 25, height: 25}}
       />
   </View>
    <View style = {{flex:1}}>

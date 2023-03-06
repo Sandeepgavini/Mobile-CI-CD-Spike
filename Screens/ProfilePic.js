@@ -6,7 +6,7 @@ const ProfilePic = () => {
     <View>
         <ImageBackground
             resizeMode='cover'
-            style = {{width:'100%'}}
+            style = {{width:'100%',height:'auto'}}
             spurce = {{ uri: 'https://reactnative.dev/docs/assets/p_cat2.png',}}
         />
     </View>
